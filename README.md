@@ -48,4 +48,3 @@ This implementation is based on [TransCAM[1]](https://github.com/liruiwen/TransC
 [2] Lee, Minhyun, Dongseob Kim, and Hyunjung Shim. "Threshold matters in wsss: Manipulating the activation for the robust and accurate segmentation model against thresholds." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.
 
 
-
