@@ -22,13 +22,13 @@ Use TransCAM trained weights for learning(https://github.com/liruiwen/TransCAM)
 
 ```python train_bao.py --weights ../..```
 
-our trained weights [here](https://drive.google.com/drive/u/0/folders/1QegDgV-AagnpJHBjlPQZvgnHQgmm120F)
+Our trained weights [here](https://drive.google.com/drive/u/0/folders/1QegDgV-AagnpJHBjlPQZvgnHQgmm120F)
 
 #### 2. Infer
 ```python infer_bao.py --weights ../..```
 
 #### 3. Evaluation
-```python evaluation_bao.py --comment bnr --predict_dir ../..```
+```python evaluation_bao.py --comment bao --predict_dir ../..```
 
 ### Visualization
 
@@ -38,7 +38,7 @@ our trained weights [here](https://drive.google.com/drive/u/0/folders/1QegDgV-Aa
 ### Learning semantic segmentation model
 
 #### 1. Semantic segmentation
-semantic segmentation models are trained according to MCTformer(https://github.com/xulianuwa/MCTformer)
+Semantic segmentation models are trained according to MCTformer(https://github.com/xulianuwa/MCTformer)
 
 ## Acknowledge 
 This implementation is based on [TransCAM[1]](https://github.com/liruiwen/TransCAM) and [AMN[2]](https://github.com/gaviotas/AMN). Thanks for the awesome work.
